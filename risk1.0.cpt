@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkBook xmlVersion="20151125" releaseVersion="8.0.0">
+<Report class="com.fr.report.worksheet.WorkSheet" name="sheet1">
+<ReportPageAttr>
+<HR/>
+<FR/>
+<HC/>
+<FC/>
+</ReportPageAttr>
+<ColumnPrivilegeControl/>
+<RowPrivilegeControl/>
+<RowHeight defaultValue="723900">
+<![CDATA[1143000,1333500,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900,723900]]></RowHeight>
+<ColumnWidth defaultValue="2743200">
+<![CDATA[2933700,6819900,4000500,2743200,2743200,2743200,2819400,2743200,2743200,2743200,3429000,2743200,2933700,3238500,2743200,3657600,3810000,2743200,2743200,2743200,2743200,2743200,2743200]]></ColumnWidth>
+<CellElementList>
+<C c="0" r="0">
+<PrivilegeControl/>
+</C>
+<C c="3" r="0" cs="3" s="0">
+<O>
+<![CDATA[analysis]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="6" r="0" cs="3" s="0">
+<O>
+<![CDATA[time]]></O>
+<PrivilegeControl/>
+</C>
+<C c="9" r="0" cs="3" s="0">
+<O>
+<![CDATA[status]]></O>
+<PrivilegeControl/>
+</C>
+<C c="12" r="0">
+<O>
+<![CDATA[owner]]></O>
+<PrivilegeControl/>
+</C>
+<C c="13" r="0">
+<O>
+<![CDATA[relationship]]></O>
+<PrivilegeControl/>
+</C>
+<C c="14" r="0">
+<O>
+<![CDATA[outcomes]]></O>
+<PrivilegeControl/>
+</C>
+<C c="15" r="0">
+<O>
+<![CDATA[responses-plan]]></O>
+<PrivilegeControl/>
+</C>
+<C c="16" r="0">
+<O>
+<![CDATA[easytofindlevel]]></O>
+<PrivilegeControl/>
+</C>
+<C c="17" r="0">
+<O>
+<![CDATA[process]]></O>
+<PrivilegeControl/>
+</C>
+<C c="0" r="1" s="1">
+<O>
+<![CDATA[catagories]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="1" r="1" s="2">
+<O t="BiasTextPainter">
+<IsBackSlash value="false"/>
+<![CDATA[attributes|riskid]]></O>
+<PrivilegeControl/>
+<CellGUIAttr adjustmode="1"/>
+<CellPageAttr/>
+<Expand/>
+</C>
+<C c="2" r="1">
+<O>
+<![CDATA[precondition]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="3" r="1">
+<O>
+<![CDATA[probability]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="4" r="1">
+<O>
+<![CDATA[impact]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="5" r="1">
+<O>
+<![CDATA[severity]]></O>
+<PrivilegeControl/>
+<Expand/>
+</C>
+<C c="6" r="1">
+<O>
+<![CDATA[start]]></O>
+<PrivilegeControl/>
+</C>
+<C c="7" r="1">
+<O>
+<![CDATA[review]]></O>
+<PrivilegeControl/>
+</C>
+<C c="8" r="1">
+<O>
+<![CDATA[end]]></O>
+<PrivilegeControl/>
+</C>
+<C c="9" r="1">
+<O>
+<![CDATA[current]]></O>
+<PrivilegeControl/>
+</C>
+<C c="10" r="1">
+<O>
+<![CDATA[changefactor]]></O>
+<PrivilegeControl/>
+</C>
+<C c="11" r="1">
+<O>
+<![CDATA[maychangeto]]></O>
+<PrivilegeControl/>
+</C>
+<C c="0" r="3">
+<PrivilegeControl/>
+<Expand/>
+</C>
+</CellElementList>
+<ReportAttrSet>
+<ReportSettings headerHeight="0" footerHeight="0">
+<PaperSetting/>
+</ReportSettings>
+<Header reportPageType="0">
+<Background name="NullBackground"/>
+<LeftList/>
+<CenterList/>
+<RightList/>
+</Header>
+<Footer reportPageType="0">
+<Background name="NullBackground"/>
+<LeftList/>
+<CenterList/>
+<RightList/>
+</Footer>
+</ReportAttrSet>
+<PrivilegeControl/>
+</Report>
+<ReportParameterAttr>
+<Attributes showWindow="true" delayPlaying="true" windowPosition="1" align="0"/>
+<PWTitle>
+<![CDATA[参数]]></PWTitle>
+</ReportParameterAttr>
+<StyleList>
+<Style horizontal_alignment="0" imageLayout="1">
+<FRFont name="SimSun" style="0" size="72"/>
+<Background name="NullBackground"/>
+<Border>
+<Top style="1"/>
+<Bottom style="1"/>
+<Left style="1"/>
+<Right style="1"/>
+</Border>
+</Style>
+<Style imageLayout="1">
+<FRFont name="SimSun" style="0" size="72"/>
+<Background name="NullBackground"/>
+<Border>
+<Top style="1"/>
+<Bottom style="1"/>
+<Left style="1"/>
+<Right style="1"/>
+</Border>
+</Style>
+<Style imageLayout="1">
+<FRFont name="SimSun" style="1" size="88"/>
+<Background name="NullBackground"/>
+<Border/>
+</Style>
+</StyleList>
+<DesignerVersion DesignerVersion="IAA"/>
+<PreviewType PreviewType="0"/>
+</WorkBook>

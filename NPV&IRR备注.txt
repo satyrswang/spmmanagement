@@ -1,0 +1,44 @@
+NPV
+Net Present Value(NPV) is the difference between the present value of cash inflows and the present value of 
+cash outflows.NPV is used in capital budgeting to analyze the profitability of a projected investment 
+or project
+NPV=¦²£¨CI-CO£©£¨1+i£©^(-t)
+where 
+Ct = net cash inflow during thr period t 
+Co = total initial investment costs
+r = discount rate 
+t= number of time periods
+In our project, the cost of capital represents the value of discount rate and the annual net benefit of 
+three years will be taken into the calculation of NPV 
+Net Present Value = 500(1+10%)+514(1+10%)^2+560(1+10%)^3-952=287.75
+
+IRR 
+Internal rate of return(IRR) is a matric used in captial budgeting measuring the profitablity of protential
+investement. Internal rate of return is a discount rate that makes the net present value of all cash flows 
+from a particular project equal to zero 
+base on the NPV calculation of the case above,the value of discount rate could be get when NPV = 0
+
+500/(1+r)+514/(1+r)^2+560/(1+r)^3-952 = 0 
+IRR = 29%.
+
+
+
+NPV= 112(1+10%)+600.40(1+10%)^2+1201.74(1+10%)^3-420 =   
+IRR= 112/(1+r)+600.40/(1+r)^2+1201.74/(1+r)^3-420=0  r = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

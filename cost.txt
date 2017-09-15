@@ -1,0 +1,8 @@
+PS: The cost of hardwares including iPads, pc and other peripherals for communication while delivering is calculated under the following standard: 3000 (RMB/iPad) *8 (iPad) + 8000 (RMB/PC) *30 (PC)+5000£¨RMB/server£©*6£¨servers£© = 294,000 RMB.Other aspects such as place rent(per year) and office materials and installation\test cost us about 130,000RMB.So we have to spend about 420,000RMB on the hardware part.
+
+Also,the software,API renting,IDE,license,network cost and data update will cost totally about 12,000RMB.
+
+When it comes to staff expenses,we plan to spend about 1500RMB/per person for staff training and team building.
+ 
+
+
